@@ -20,7 +20,7 @@ const Header = () => {
 		<nav>
 			<img src={menu} alt="menu" className="menu" />
 			<div className="navbar-left">
-				<a href="/REACT-SHOP-2022"><img src={logo} alt="logo" className="nav-logo" /></a>
+				<a className="nav-logo" href="/REACT-SHOP-2022"><img src={logo} alt="logo" className="nav-logo" /></a>
 				<ul>
 					<li>
 						<a href="/REACT-SHOP-2022">All</a>

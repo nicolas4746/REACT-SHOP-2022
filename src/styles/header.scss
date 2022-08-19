@@ -62,6 +62,9 @@ nav {
 	justify-content: center;
 	align-items: center;
 }
+.nav-logo{
+	display: flex;
+}
 @media (max-width: 640px) {
 	.menu {
 		display: block;
