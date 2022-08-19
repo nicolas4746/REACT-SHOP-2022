@@ -20,25 +20,25 @@ const Header = () => {
 		<nav>
 			<img src={menu} alt="menu" className="menu" />
 			<div className="navbar-left">
-				<img src={logo} alt="logo" className="nav-logo" />
+				<a href="/REACT-SHOP-2022"><img src={logo} alt="logo" className="nav-logo" /></a>
 				<ul>
 					<li>
-						<a href="/">All</a>
+						<a href="/REACT-SHOP-2022">All</a>
 					</li>
 					<li>
-						<a href="/">Clothes</a>
+						<a href="/REACT-SHOP-2022">Clothes</a>
 					</li>
 					<li>
-						<a href="/">Electronics</a>
+						<a href="/REACT-SHOP-2022">Electronics</a>
 					</li>
 					<li>
-						<a href="/">Furnitures</a>
+						<a href="/REACT-SHOP-2022">Furnitures</a>
 					</li>
 					<li>
-						<a href="/">Toys</a>
+						<a href="/REACT-SHOP-2022">Toys</a>
 					</li>
 					<li>
-						<a href="/">Others</a>
+						<a href="/REACT-SHOP-2022">Others</a>
 					</li>
 				</ul>
 			</div>
